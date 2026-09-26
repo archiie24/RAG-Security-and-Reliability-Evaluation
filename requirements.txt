@@ -1,0 +1,12 @@
+PyMuPDF
+numpy
+faiss-cpu
+sentence-transformers
+rank-bm25
+google-genai
+fastapi
+uvicorn
+pydantic
+streamlit
+pandas
+requests
